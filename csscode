@@ -22,6 +22,7 @@
     90deg,
     #016132,
    #259c53
+   margin
   );
 
   transition: width 0.4s ease;
@@ -35,6 +36,7 @@
 .progress-57 { width: 57%; }
 .progress-71 { width: 71%; }
 .progress-86 { width: 86%; }
+.progress-97 { width: 97%; }
 .progress-100 { width: 100%; }
 
 /* Spacing so content + sticky footer behave */
